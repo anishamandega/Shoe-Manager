@@ -32,3 +32,10 @@ Upon running the program, a menu will be displayed with different options. Enter
 7. **Exit the Shoe Inventory Menu:** Exit the program.
 
 Follow the on-screen prompts to interact with the program and manage your shoe inventory.
+
+# Contributing
+Contributions to this project are welcome. If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
+# Acknowledgments
+This project is based on a programming exercise I completed during my bootcamp at HyperionDev.
+The Wasabi library is used for colorful console output.
